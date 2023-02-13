@@ -1,0 +1,47 @@
+  
+# 🤖 Meet the Code Wizard
+
+Hi there! I'm on a mission to master advanced C programming and Embedded Software Engineering, and I won't stop until I become the next code wizard 🧙‍♂️
+
+# 🚀 Launching Mind-Blowing Projects
+
+I'm currently working on a top-secret project that's gonna blow your mind 🤯 Just kidding, no I am just working on my portfolio web application at the moment. But hey, I have big dreams! 
+
+# 💡 Ask Me About...
+
+- Dijkstra's Algorithm: Wish me luck, I'm trying to memorize this baby like it's my social security number! 😂 
+- Blockchain and Decentralized Apps: If you're into decentralized systems and want to know more, I'm your guy! 
+- Django and JavaScript: Did you know that Django is not just a cool web framework, but also a legendary jazz guitarist? 🎸 Talk about a double threat!
+
+## Tech Stack
+
+- 💻 **C Programming**
+- 🔧 **Embedded Software Engineering**
+- 🚀 **Django** :snake:
+- 🔥 **JavaScript** :fire:
+- 🔗 **Blockchain and Decentralized Applications** :link:
+- 🐳 **Docker**
+- ⚛️ **React**
+- 🌊 **Jenkins**
+- 💾 **Git**
+- 🐍 **Python**
+
+# 🎉 Let's Make Some Magic!
+
+- :rocket: Launching Mind-Blowing Projects
+- :question: Ask Me About...
+- :nerd_face: Advanced C Programming and Embedded Software Engineering
+- :musical_note: Fun Fact About Django and JavaScript
+
+Thanks for stopping by! I'm always open to feedback, suggestions, and new connections. Let's create something epic together! 🚀
+
+
+
+
+
+
+   ____      _                 ___              _     __
+  / __/____ (_)____ ___  ____ / _ \ ____ ___   (_)___/ /
+ / _/ / __// // __// _ \/___// // // __// _ \ / // _  / 
+/___//_/  /_/ \__/ \___/    /____//_/   \___//_/ \_,_/  
+                                                        
