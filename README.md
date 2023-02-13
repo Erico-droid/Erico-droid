@@ -4,7 +4,7 @@ Hi there! I'm on a mission to master advanced C programming and Embedded Softwar
 
 # 🚀 Launching Mind-Blowing Projects
 
-I'm currently working on a top-secret project that's gonna blow your mind 🤯 But hey, two heads are better than one! I'm always looking for a sidekick to join me on this coding journey and create something truly amazing 💥
+I'm currently working on a top-secret project that's gonna blow your mind 🤯 Just kidding, no I am just working on my portfolio web application at the moment. But hey, I have big dreams! 
 
 # 💡 Ask Me About...
 
