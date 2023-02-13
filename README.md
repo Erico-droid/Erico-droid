@@ -21,3 +21,17 @@ I'm currently working on a top-secret project that's gonna blow your mind 🤯 J
 
 Thanks for stopping by! I'm always open to feedback, suggestions, and new connections. Let's create something epic together! 🚀
 
+## Tech Stack
+
+- 💻 **C Programming**
+- 🔧 **Embedded Software Engineering**
+- 🚀 **Django** :snake:
+- 🔥 **JavaScript** :fire:
+- 🔗 **Blockchain and Decentralized Applications** :link:
+- 🐳 **Docker**
+- ⚛️ **React**
+- 🌊 **Jenkins**
+- 💾 **Git**
+- 🐍 **Python**
+
+
