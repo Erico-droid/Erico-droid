@@ -48,5 +48,13 @@ I'm currently working on a top-secret project that's gonna blow your mind 🤯 J
 Thanks for stopping by! I'm always open to feedback, suggestions, and new connections. Let's create something epic together! 🚀
 
 
+
+
+
+                1000101 1110010 1101001 1100011 1101111 101101 1000100 1110010 1101111 1101001 1100100
+                 
+                                                                                        
+
+
                                               
                                                                                                                                                         
