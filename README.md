@@ -29,14 +29,16 @@ I'm currently working on a top-secret project that's gonna blow your mind 🤯 J
 
 - 💻 **C Programming**
 - 🔧 **Embedded Software Engineering**
-- 🚀 **Django** :snake:
-- 🔥 **JavaScript** :fire:
-- 🔗 **Blockchain and Decentralized Applications** :link:
+- 🚀 **Django** 
+- 🔥 **JavaScript**
+- 🔗 **Blockchain and Decentralized Applications** 
 - 🐳 **Docker**
 - ⚛️ **React**
 - 🌊 **Jenkins**
 - 💾 **Git**
 - 🐍 **Python**
+- 🐧 **Linux**
+- 🖥️ **HTML & CSS**
 
 # 🎉 Let's Make Some Magic!
 
