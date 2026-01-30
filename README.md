@@ -11,10 +11,6 @@
                                         ░                  ░                             ░      
 
 
-# 🤖 Meet the Code Wizard
-
-Hi there! I'm on a mission to master advanced C programming and Embedded Software Engineering, and I won't stop until I become the next code wizard 🧙‍♂️
-
 # 🚀 Launching Mind-Blowing Projects
 
 I'm currently working on a top-secret project that's gonna blow your mind 🤯 Just kidding, no I am just working on my portfolio web application at the moment. But hey, I have big dreams! 
